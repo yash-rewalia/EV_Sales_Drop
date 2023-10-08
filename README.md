@@ -54,14 +54,18 @@ campaign.
 
 Finding & Impact
 
-1. After analyzing we export
-in into csv file and plot
-the graphs as per problem
-statements.
+1. Get to know the data type
+is not as expected so we
+convert it.
 
-2. We find out the click rate
+2. After analyzing we export
+in into CSV file and plot
+the graphs as per the problem
+statements. 
+
+3. We find out the click rate
 of email is greater than
 the benchmark value but
-opening rate is fall
+the opening rate is a fall
 shorter than the
 benchmark value. 
